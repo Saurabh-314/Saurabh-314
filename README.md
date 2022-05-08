@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saurabh-314
-- 👀 I’m interested in python programming
-- 🌱 I’m currently learning python
+- 👀 I’m a Full Stack Developer
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 maxxjob314@gmail.com
 - https://www.hackerrank.com/maxxjob314
