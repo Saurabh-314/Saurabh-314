@@ -2,7 +2,7 @@
 - 👀 I’m a Full Stack Developer
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
-- 📫 maxxjob314@gmail.com
+- 📫 maxxxjob314@gmail.com
 - https://www.hackerrank.com/maxxjob314
 
 <!---
